@@ -1,0 +1,16 @@
+.homepagecontainer{
+    padding-top:20px ;
+}
+.mobile-top-image{
+    /* border: 2px solid red; */
+    height: 25vh;
+    background-image: url(../images/topimage.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home-cta{
+    line-height: 2.1em;
+    text-justify: distribute;
+}
